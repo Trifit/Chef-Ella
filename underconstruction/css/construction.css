@@ -1,0 +1,16 @@
+body {	
+	margin-left:auto;
+	margin-right:auto;
+	width:30em;
+	font-family:Trebuchet MS, Arial, Helvetica, sans-serif;
+}
+/*Contact webpage*/
+
+h1 {
+	padding-top:5em;
+	color:#ed0778;
+}
+#sign{
+	text-align:right;
+	color:#ed0778;
+}
